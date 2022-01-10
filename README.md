@@ -7,6 +7,12 @@ Introduction to the basics of R and staitics with the aim of making you a statis
 4. Plotting with ggplot
 
 
-Data for the class can be found at:
+Data for the class was taken from the following sources:
+
+https://www.kaggle.com/ruslankl/mice-protein-expression
+
+https://www.kaggle.com/osmi/mental-health-in-tech-survey
+
 https://data.world/kcmillersean/billboard-hot-100-1958-2017
+
 ....
