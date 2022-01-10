@@ -3,7 +3,7 @@ Introduction to the basics of R and staitics with the aim of making you a statis
 
 1. Module 1: R Basics 
       1. R Basics 1 (interfaces, RStudio, variable and data types, loading data, conditionals)
-      2. R Basics 2 (dplyr: order, filter, select, summarize, mutate, loops, functions)
+      2. R Basics 2 (order, filter, select, summarize, mutate with dplyr, loops, functions)
 2. Module 2: An Introduction to Statistics 
       1. Intro to Stats 1 (Descriptive stats, Confidence Intervals, Hypothesis testing, effect sizes)
       2. Intro to Stats 2 (Regressions, Hierarchical regressions, model selection)
